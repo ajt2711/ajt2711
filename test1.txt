@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 FirstFile, modified
 
 modified for ajremote branch
+=======
+FirstFile, modified
+>>>>>>> 8c7a24cc (Adding codecept project)
