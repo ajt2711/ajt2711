@@ -21,3 +21,5 @@ export const config: CodeceptJS.MainConfig = {
   },
   name: 'CodeCept'
 }
+
+//Adding this fix as part of WI 1234
